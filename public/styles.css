@@ -1,0 +1,143 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #8ECDDD;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 80vh;
+    background-color: #F0F0F0;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.content {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    font-family: 'Caveat', cursive;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    font-family: 'Caveat', cursive;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font-family: 'Caveat', cursive;
+    font-size: 24px;
+}
+
+.completed {
+    font-size: 24px;
+    text-decoration: line-through;
+    color: #999;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.input-group {
+    display: flex;
+    flex-grow: 1;
+}
+
+.complete-button {
+    background-color: #ffdd57;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s;
+    margin-left: 10px;
+}
+
+.complete-button:hover {
+    background-color: #ffd200;
+}
+
+.completed-button {
+    background-color: #e5d283;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s;
+    margin-left: 10px;
+}
+
+.completed-button:hover {
+    background-color: #d1ba7f;
+}
+
+#add-button {
+    background-color: #0074cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s;
+    margin-left: 10px;
+}
+
+#add-button:hover {
+    background-color: #005aaa;
+}
+
+#clear-button {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+}
+
+#clear-button:hover {
+    background-color: #d32f2f;
+}
+
+input[type="text"]:focus {
+    border: 1px solid #0074cc;
+}
+
+input[type="text"] {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    font-size: 24px;
+    font-family: 'Caveat', cursive;
+}
