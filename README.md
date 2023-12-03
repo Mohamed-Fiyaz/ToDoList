@@ -8,12 +8,12 @@ This project is a simple web-based to-do list application built using Node.js an
 
 ### Simple and user-friendly interface.
 
-![4074C5DA-9E9D-474D-ACF1-2EC5AACE8EB8_1_201_a](https://github.com/Mohamed-Fiyaz/ToDoList/assets/124451741/76a5f623-3c9e-4c50-835a-4903a8bc679d)
+![image](https://github.com/Mohamed-Fiyaz/ToDoList/assets/124451741/417dc822-c210-42c5-8344-959210fc0d71)
 
 ### Add new tasks to your to-do list.
 
-![4228F3B1-4B63-4BD3-9B21-C71D897FBCAD_1_201_a](https://github.com/Mohamed-Fiyaz/ToDoList/assets/124451741/5b00c26a-b079-4d08-9d35-20b1ff7dccd1)
+![image](https://github.com/Mohamed-Fiyaz/ToDoList/assets/124451741/fb4c8c89-c353-4775-9031-0e6fa9403114)
 
 ### Mark tasks as completed or clear all tasks from the list.
 
-![8FD9E60E-D00A-4164-A2D1-E3F2011BAC37_1_201_a](https://github.com/Mohamed-Fiyaz/ToDoList/assets/124451741/f651a5db-234f-4a90-9bfe-00345d65b3c5)
+![image](https://github.com/Mohamed-Fiyaz/ToDoList/assets/124451741/7a88f59e-5c45-4351-85a1-af025c4184f3)
