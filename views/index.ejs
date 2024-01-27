@@ -55,7 +55,11 @@
         </div>
     </div>
     <footer>
-        <p>&copy; Mohamed Fiyaz 2024</p>
+        <p>&copy; Mohamed Fiyaz <span id="current-year"></span></p>
     </footer>
+
+    <script>
+        document.getElementById("current-year").innerText = new Date().getFullYear();
+    </script>
 </body>
 </html>
